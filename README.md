@@ -8,6 +8,8 @@ Use the package manager
 
 ```bash
 steps to install
+---
+...
 ```
 
 ## Usage
