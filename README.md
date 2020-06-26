@@ -4,10 +4,10 @@ Minecraft - Docs - Provides documentation for Minecraft on iOS
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Use the package manager
 
 ```bash
-pip install minecraft
+steps to install
 ```
 
 ## Usage
@@ -23,7 +23,5 @@ import minecraft
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 Please make sure to update tests as appropriate
-
-Updated docs123
 
 
