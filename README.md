@@ -1,0 +1,2 @@
+# minecraft-docs
+Minecraft - Docs
